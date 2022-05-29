@@ -1,4 +1,4 @@
 # housing_prices_analysis_aim
 
 
-• Analyzed 80,000 rental transactions of 4000 vehicles at 50 branch locations for Lariat Rent-A-Car. Built a financial model in Excel to evaluate profitability scenarios. Derived insights from the rental fleet data and recommended strategies for reaching their goals in terms of the revenue generated and lower overhead costs for their fleet of cars.
+• Conducted market research to provide 5 factors that drove house prices on a real estate dataset through statistical analysis and hypothesis testing by using pivot tables and VLOOKUP in Excel. Presented my insights and recommendations using charts with confidence intervals and p-values in PowerPoint.
